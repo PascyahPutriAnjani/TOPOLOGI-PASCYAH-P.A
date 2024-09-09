@@ -19,6 +19,7 @@ Kekurangan dari topologi bus antara lain: pengiriman juga penerimaan data kurang
 
 3.     Topologi Mesh
 
+![Topologi-mesh](https://github.com/user-attachments/assets/8992be70-88e1-4400-b4d8-31e563e4ec4a)
 Topologi ini biasanya dimanfaatkan untuk instalasi dengan banyak jalur. Topologi ini juga menggunakan kabel tunggal sehingga pengiriman data bisa lebih cepat karena tidak melewati switch atau hub.
 
 Kelebihan dari topologi mesh antara lain: keamanan data yang baik, bandwidth limit yang besar, tidak terjadi tabrakan arus karena memiliki jalur pengiriman data yang banyak.
