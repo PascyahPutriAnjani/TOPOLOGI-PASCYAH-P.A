@@ -70,3 +70,9 @@ Topologi ini merupakan gabungan dari beberapa jenis topologi (dua atau lebih) ya
 Kelebihan dari topologi ini yaitu sifatnya yang fleksibel sehingga sangat mudah ketika kita ingin menambahkan koneksi lainnya.
 
 Kekurangan dari topologi ini yaitu proses instalasi dan pengaturannya yang rumit, memiliki manajemen yang sulit dilakukan serta biaya yang dikeluarkan untuk membangun topologi hybrid cukup mahal.
+
+
+
+Kesimpulan : 
+      Dari 8 topologi di atas, topologi mesh dianggap sebagai salah satu pilihan terbaik dalam desain jaringan karena keandalannya yang tinggi dan kemampuannya untuk menyediakan redundansi yang kuat. Dalam topologi mesh, setiap perangkat terhubung ke beberapa perangkat lainnya, yang memungkinkan data untuk dialihkan melalui jalur alternatif jika terjadi kegagalan pada salah satu jalur. 
+      Hal ini memastikan kontinuitas operasional jaringan dan mengurangi risiko downtime. Selain itu, topologi mesh mendukung skalabilitas yang baik, memungkinkan penambahan perangkat tanpa mengganggu jaringan yang ada dan meningkatkan kinerja dengan mengurangi kemacetan lalu lintas data. Meskipun demikian, implementasi topologi mesh dapat menjadi kompleks dan mahal, sehingga perlu dipertimbangkan biaya dan sumber daya yang diperlukan. Secara keseluruhan, bagi jaringan yang memerlukan keandalan tinggi dan ketahanan terhadap kegagalan, topologi mesh adalah pilihan yang sangat efektif.
