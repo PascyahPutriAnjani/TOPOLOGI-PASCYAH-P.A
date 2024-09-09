@@ -2,7 +2,7 @@
 1.     Topologi Ring
 
 ![definisi topologi ring](https://github.com/user-attachments/assets/5fd2aaa2-384c-4a53-bef8-ce9b84f9117f)
-Topologi cincin menggunakan LAN card untuk membuat koneksi antara satu komputer dengan komputer yang lain dalam sebuah rangkaian yang berbentuk melingkar seperti cincin.
+Topologi cincin menggunakan menggunakan LAN card untuk membuat koneksi antara satu komputer dengan komputer yang lain dalam sebuah rangkaian yang berbentuk melingkar seperti cincin. 
 
 Kelebihan dari topologi ini antara lain: performa koneksinya yang baik, biaya instalasi yang cukup murah dengan proses dan konfigurasi yang mudah, serta implementasinya cukup mudah dilakukan.
 
@@ -10,6 +10,7 @@ Kekurangan dari topologi ini antara lain: troubleshooting yang cukup rumit, re
 
 2.     Topologi Bus
 
+![Cara-Kerja-Topologi-Bus-1024x726-1](https://github.com/user-attachments/assets/f2f04480-261e-448e-87ef-63da590fe53a)
 Topologi ini digunakan pada jaringan berbasis kabel coaxial di sepanjang konektor dan node client. Konektor yang digunakan pada topologi bus yaitu terminator, BNC serta TNBC.
 
 Kelebihan dari topologi bus antara lain: penambahan workstation dan klien baru lebih mudah dilakukan, sangat sederhana dan mudah digunakan, memiliki biaya instalasi yang cukup murah karena hanya sedikit kabel yang digunakan.
