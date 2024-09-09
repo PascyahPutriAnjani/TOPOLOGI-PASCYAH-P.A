@@ -64,10 +64,9 @@ Kekurangan dari topologi linier terletak pada keamanan data yang cukup rentan se
 
 8.     Topologi Hybrid
 
+![Gambar-Pendukung-Artikel-1](https://github.com/user-attachments/assets/c3fbb437-28e8-46df-a499-5bea629fcb7c)
 Topologi ini merupakan gabungan dari beberapa jenis topologi (dua atau lebih) yang membentuk jaringan komputer yang baru.
 
 Kelebihan dari topologi ini yaitu sifatnya yang fleksibel sehingga sangat mudah ketika kita ingin menambahkan koneksi lainnya.
 
 Kekurangan dari topologi ini yaitu proses instalasi dan pengaturannya yang rumit, memiliki manajemen yang sulit dilakukan serta biaya yang dikeluarkan untuk membangun topologi hybrid cukup mahal.
-
-Di atas adalah sekilas tentang topologi jaringan mulai dari pengertian, fungsi hingga jenis-jenisnya. Bagi kamu yang tertarik dengan dunia IT, tentunya artikel ini sangat bermanfaat bukan? Cari tahu artikel lain yang juga menunjang keilmuan kamu di bidang IT.
