@@ -55,6 +55,7 @@ Kekurangan dari topologi peer to peer diantaranya terletak pada kesulitan untu
 
 7.     Topologi Linier
 
+![topologi linear(1)](https://github.com/user-attachments/assets/61e70c48-0e2f-4f02-8b2f-d986f8d4ef09)
 Topologi linier menggunakan satu kabel di setiap komputer sebagai konektor di masing-masing titik sambungan.
 
 Kelebihan dari topologi linier diantaranya mudah dikembangkan, hanya menggunakan sedikit kabel, tidak membutuhkan kendali sentral serta memiliki tata letak yang sederhana.
