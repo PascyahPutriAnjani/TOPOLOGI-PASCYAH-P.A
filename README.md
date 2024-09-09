@@ -42,7 +42,7 @@ Topologi ini merupakan gabungan antara topologi star dan topologi bus. Jenis t
 
 Kelebihan dari topolog tree yaitu: mudah dikembangkan menjadi topologi yang lebih luas, susunannya terpusat secara hierarki sehingga lebih mudah dalam pengaturan data.
 
-Kekurangan dari topologi tree diantaranya: memiliki biaya instalasi yang sedikit mahal karena banyak menggunakan kabel, memiliki kinerja jaringan yang lambat, jika ada masalah pada bagian atas komputer maka bagian bawah juga terkena dampak masalah, kabel backbone menjadi sentral dari topologi ini.
+Kekurangan dari topologi tree diantaranya: memiliki biaya instalasi yang sedikit mahal karena banyak menggunakan kabel, memiliki kinerja jaringan yang lambat, jika ada masalah pada bagian atas komputer maka bagian bawah juga terkena dampak masalah, kabel backbone menjadi sentral dari topologi ini.
 
 6.     Topologi Peer to Peer
 
