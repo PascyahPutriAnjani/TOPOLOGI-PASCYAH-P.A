@@ -1,6 +1,7 @@
 # TOPOLOGI-PASCYAH-P.A
 1.     Topologi Ring
 
+![definisi topologi ring](https://github.com/user-attachments/assets/5fd2aaa2-384c-4a53-bef8-ce9b84f9117f)
 Topologi cincin menggunakan LAN card untuk membuat koneksi antara satu komputer dengan komputer yang lain dalam sebuah rangkaian yang berbentuk melingkar seperti cincin.
 
 Kelebihan dari topologi ini antara lain: performa koneksinya yang baik, biaya instalasi yang cukup murah dengan proses dan konfigurasi yang mudah, serta implementasinya cukup mudah dilakukan.
