@@ -37,6 +37,7 @@ Kekurangan dari topologi star diantaranya: biaya yang terlalu mahal karena mengg
 
 5.     Topologi Tree
 
+![topologi-tree-1024x724](https://github.com/user-attachments/assets/1b3acbee-ae55-46a7-b8f8-7525a73f4842)
 Topologi ini merupakan gabungan antara topologi star dan topologi bus. Jenis topologi ini digunakan untuk interkoneksi di antara hirarki yang berbeda-beda. Topologi tree ini memiliki rangkaian yang berbentuk struktur pohon.
 
 Kelebihan dari topolog tree yaitu: mudah dikembangkan menjadi topologi yang lebih luas, susunannya terpusat secara hierarki sehingga lebih mudah dalam pengaturan data.
