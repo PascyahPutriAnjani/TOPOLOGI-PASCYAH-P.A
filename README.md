@@ -28,6 +28,7 @@ Kekurangan dari topologi mesh antara lain: penggunaan kabel yang cukup banyak, b
 
 4.     Topologi Star
 
+![apa-itu-topologi-star-adalah](https://github.com/user-attachments/assets/af51ee4a-40b0-45bb-bf76-9d5038ac36d5)
 Topologi bintang menggunakan switch atau hub agar bisa terkoneksi dengan klien. Diantara berbagai jenis topologi, topologi star adalah yang paling sering digunakan.
 
 Kelebihan dari topologi star antara lain: jika ada masalah pada klien jaringan tetap berjalan dengan baik, memiliki tingkat keamanan yang tinggi, lebih fleksibel serta memiliki kemudahan dalam pendeteksian masalah dalam jaringan.
