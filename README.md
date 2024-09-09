@@ -46,6 +46,7 @@ Kekurangan dari topologi tree diantaranya: memiliki biaya instalasi yang sedik
 
 6.     Topologi Peer to Peer
 
+
 Topologi ini cukup sederhana karena yang dihubungkan hanya dua komputer dengan satu kabel untuk berbagi data.
 
 Kelebihan dari topologi peer to peer adalah biaya instalasi yang murah dengan instalasi yang mudah serta setiap komputer memiliki peranan sebagai klien atau server.
